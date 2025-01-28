@@ -1,5 +1,5 @@
 # 💫 About Me:
-studying computer programming at seneca<br>interesting in building coding projects
+Studying computer programming at seneca plytechnic<br>Interesting in building coding projects
 
 
 ## 🌐 Socials:
